@@ -1,4 +1,9 @@
 Angelina Jolie
 Margot Robbie
 Jennifer Lawrence
+<<<<<<< HEAD
 Joline Kujo
+=======
+Ashley Greene
+
+>>>>>>> test2
